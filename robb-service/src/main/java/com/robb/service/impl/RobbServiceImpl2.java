@@ -4,7 +4,7 @@ import org.springframework.stereotype.Service;
 
 import com.robb.service.RobbService;
 
-@Service("robbServiceImpl2")
+//@Service("robbServiceImpl2")
 public class RobbServiceImpl2 implements RobbService {
 
 	@Override
